@@ -1,1 +1,1 @@
-## This repository contains the list of all the projects needed to the APIs and Microservices certification from freecodecamp.org
+## This repository contains all the projects needed to complete the APIs and Microservices certification from freecodecamp.org
